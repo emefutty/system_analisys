@@ -1,4 +1,3 @@
-#Приветсвие пользователя
 #include <iostream>
 int main() {
 	std::string name;
